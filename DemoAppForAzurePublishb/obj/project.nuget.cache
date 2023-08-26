@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "89yAizvDnZmuR52PaFCKccN/nhAnHcC1n8yW/zNHQGRKmhSRAGabPuAWKGEejG9yad60rqlbl0YKZbbg8fYqng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Core User\\Desktop\\DemoAppForAzurePublishb\\DemoAppForAzurePublishb\\DemoAppForAzurePublishb.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.selise.biz/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

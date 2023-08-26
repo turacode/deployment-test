@@ -1,0 +1,7 @@
+C:\Users\Core User\Desktop\DemoAppForAzurePublishb\DemoAppForAzurePublishb\obj\Release\net6.0\PubTmp\Out\DemoAppForAzurePublishb.exe
+C:\Users\Core User\Desktop\DemoAppForAzurePublishb\DemoAppForAzurePublishb\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Core User\Desktop\DemoAppForAzurePublishb\DemoAppForAzurePublishb\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Core User\Desktop\DemoAppForAzurePublishb\DemoAppForAzurePublishb\obj\Release\net6.0\PubTmp\Out\DemoAppForAzurePublishb.dll
+C:\Users\Core User\Desktop\DemoAppForAzurePublishb\DemoAppForAzurePublishb\obj\Release\net6.0\PubTmp\Out\DemoAppForAzurePublishb.deps.json
+C:\Users\Core User\Desktop\DemoAppForAzurePublishb\DemoAppForAzurePublishb\obj\Release\net6.0\PubTmp\Out\DemoAppForAzurePublishb.runtimeconfig.json
+C:\Users\Core User\Desktop\DemoAppForAzurePublishb\DemoAppForAzurePublishb\obj\Release\net6.0\PubTmp\Out\DemoAppForAzurePublishb.pdb
