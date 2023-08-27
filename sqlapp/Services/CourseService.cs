@@ -8,7 +8,7 @@ namespace sqlapp.Services
     // This service will interact with our Product data in the SQL database
     public class CourseService
     {
-        private static string db_connectionstring = "server=4.210.73.168;user=dbusr;password=@a650065006500;database=appdb";
+        private static string db_connectionstring = "server=10.0.0.4;user=dbusr;password=@a650065006500;database=appdb";
 
         private MySqlConnection GetConnection()
         {
