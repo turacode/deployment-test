@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jsuIpZgbTgSqpAzp6wh6W1N/YVyCdOThP0a3KTCCKRn8ufBxXnW2SVlZ/BvD64d+y2dNXxCGuAJ0LBRP4S2JQQ==",
+  "dgSpecHash": "qKEi/nyEMO/jIbrylPZMuibSxixnHP2rfi9pal87LHAkTYv//Fzs8Pa19JMrClJD3+4wUlh5yJNzU8TJKC2w7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Core User\\Desktop\\Temp\\az-104-temp\\sqlapp\\sqlapp\\sqlapp.csproj",
+  "projectFilePath": "C:\\Users\\Core User\\Desktop\\Temp\\az-104-temp\\deployment-test\\sqlapp\\sqlapp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Core User\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
     "C:\\Users\\Core User\\.nuget\\packages\\k4os.compression.lz4\\1.2.6\\k4os.compression.lz4.1.2.6.nupkg.sha512",

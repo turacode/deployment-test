@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Core User\\Desktop\\Temp\\az-104-temp\\sqlapp\\sqlapp\\sqlapp.csproj": {}
+    "C:\\Users\\Core User\\Desktop\\Temp\\az-104-temp\\deployment-test\\sqlapp\\sqlapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Core User\\Desktop\\Temp\\az-104-temp\\sqlapp\\sqlapp\\sqlapp.csproj": {
+    "C:\\Users\\Core User\\Desktop\\Temp\\az-104-temp\\deployment-test\\sqlapp\\sqlapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Core User\\Desktop\\Temp\\az-104-temp\\sqlapp\\sqlapp\\sqlapp.csproj",
+        "projectUniqueName": "C:\\Users\\Core User\\Desktop\\Temp\\az-104-temp\\deployment-test\\sqlapp\\sqlapp.csproj",
         "projectName": "sqlapp",
-        "projectPath": "C:\\Users\\Core User\\Desktop\\Temp\\az-104-temp\\sqlapp\\sqlapp\\sqlapp.csproj",
+        "projectPath": "C:\\Users\\Core User\\Desktop\\Temp\\az-104-temp\\deployment-test\\sqlapp\\sqlapp.csproj",
         "packagesPath": "C:\\Users\\Core User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Core User\\Desktop\\Temp\\az-104-temp\\sqlapp\\sqlapp\\obj\\",
+        "outputPath": "C:\\Users\\Core User\\Desktop\\Temp\\az-104-temp\\deployment-test\\sqlapp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
